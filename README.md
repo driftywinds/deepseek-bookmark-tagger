@@ -1,4 +1,4 @@
-Usage: python bookmark_tagger.py <bookmarks.html> <api_key>
+Usage: python tagger.py <bookmarks.html> <api_key>
 
 Example:
-  python bookmark_tagger.py bookmarks.html sk-xxxxxxxxxxxxx
+  python tagger.py bookmarks.html sk-xxxxxxxxxxxxx
